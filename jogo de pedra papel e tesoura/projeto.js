@@ -60,4 +60,4 @@ const getUserChoice = (userInput) => {
    }
  }
  playGame()
- //feito por:Wollanse Wallach,Gabriel Diniz,Erick Nejaim,Estela Braz
+ //feito por:Wollanse Wallach
